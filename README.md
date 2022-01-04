@@ -22,3 +22,22 @@
       publisher={Conference on Computational Natural Language Learning}
 }
 ```
+
+
+## Dual encoder setup for learning dense entity representations
+![](figs/dense1.png?raw=true)
+> <br/>
+> <br/>
+
+## List of word embedding visualizations made for paper
+[ ![https://diegoolano.com/deer/](figs/deer_list.png?raw=true) ]
+> <br/>
+> <br/>
+
+## Countries embedding visualization
+![](figs/dense2.png?raw=true)
+> <br/>
+> <br/>
+
+## Bands by decade embedding visualization
+[ ![https://diegoolano.com/deer/pk_simple.html](figs/deer_bands.png?raw=true) ]
