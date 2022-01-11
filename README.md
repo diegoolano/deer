@@ -5,6 +5,7 @@
 > CoNLL 2019
 
 - visualization code/figures: [ [https://diegoolano.com/deer/](https://diegoolano.com/deer/) ]
+- code for parsing wikipedia: [ [Google github](https://github.com/google-research/google-research/tree/master/dense_representations_for_entity_retrieval) ]
 - Paper: [ [https://aclanthology.org/K19-1049/](https://aclanthology.org/K19-1049/) ]
 
 ``` bibtex
